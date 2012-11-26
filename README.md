@@ -12,6 +12,6 @@ Parts Included
 
 License
 -------
-Copyright (C) 2009 - 2012 [Sean Voisen](http://sean.voisen.org)
+Copyright (C) 2012 [Sean Voisen](http://sean.voisen.org)
 
 Libraries are released under the [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/) license.
